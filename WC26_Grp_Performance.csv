@@ -1,0 +1,73 @@
+date,group,teamA,teamB,scoreA,scoreB,possessionA,possessionB,shotsA,shotsB,shots_on_targetA,shots_on_targetB,clean_sheetA,clean_sheetB
+2026-06-11,A,Mexico,South Africa,2,0,61,39,16,3,5,2,True,False
+2026-06-11,A,South Korea,Czech Republic,2,1,62,38,15,8,7,4,False,False
+2026-06-12,B,Canada,Bosnia and Herzegovina,1,1,60,40,13,8,3,4,False,False
+2026-06-12,D,United States,Paraguay,4,1,63,37,17,8,6,2,False,False
+2026-06-13,B,Qatar,Switzerland,1,1,30,70,5,27,3,10,False,False
+2026-06-13,C,Brazil,Morocco,1,1,54,46,8,13,5,4,False,False
+2026-06-13,C,Haiti,Scotland,0,1,50,50,13,8,3,3,False,True
+2026-06-14,D,Australia,Turkey,2,0,37,63,8,28,4,7,True,False
+2026-06-14,E,Germany,Curaçao,7,1,65,35,26,7,11,2,False,False
+2026-06-14,F,Netherlands,Japan,2,2,60,40,11,8,7,3,False,False
+2026-06-14,E,Ivory Coast,Ecuador,1,0,49,51,16,10,4,1,True,False
+2026-06-14,F,Sweden,Tunisia,5,1,49,51,13,5,8,2,False,False
+2026-06-15,H,Spain,Cape Verde,0,0,74,26,23,6,8,1,True,True
+2026-06-15,G,Belgium,Egypt,1,1,53,47,15,14,3,4,False,False
+2026-06-15,H,Saudi Arabia,Uruguay,1,1,35,65,7,27,3,10,False,False
+2026-06-15,G,Iran,New Zealand,2,2,47,53,17,13,4,8,False,False
+2026-06-16,I,France,Senegal,3,1,54,46,11,6,8,2,False,False
+2026-06-16,I,Iraq,Norway,1,4,37,63,11,12,1,6,False,False
+2026-06-16,J,Argentina,Algeria,3,0,47,53,9,6,6,0,True,False
+2026-06-17,J,Austria,Jordan,3,1,62,38,9,11,3,4,False,False
+2026-06-17,K,Portugal,DR Congo,1,1,75,25,9,8,3,2,False,False
+2026-06-17,L,England,Croatia,4,2,54,46,20,11,12,5,False,False
+2026-06-17,L,Ghana,Panama,1,0,37,63,8,11,3,4,True,False
+2026-06-17,K,Uzbekistan,Colombia,1,3,33,67,7,15,3,6,False,False
+2026-06-18,A,Czech Republic,South Africa,1,1,39,61,12,17,3,5,False,False
+2026-06-18,B,Switzerland,Bosnia and Herzegovina,4,1,62,38,13,4,8,3,False,False
+2026-06-18,B,Canada,Qatar,6,0,78,22,31,2,10,0,True,False
+2026-06-18,A,Mexico,South Korea,1,0,43,57,8,8,4,2,True,False
+2026-06-19,D,United States,Australia,2,0,63,37,8,5,2,2,True,False
+2026-06-19,C,Scotland,Morocco,0,1,40,60,6,12,0,3,False,True
+2026-06-19,C,Brazil,Haiti,3,0,57,43,9,8,5,4,True,False
+2026-06-19,D,Turkey,Paraguay,0,1,78,22,33,6,6,2,False,True
+2026-06-20,F,Netherlands,Sweden,5,1,52,48,12,21,7,10,False,False
+2026-06-20,E,Germany,Ivory Coast,2,1,55,45,16,9,7,2,False,False
+2026-06-20,E,Ecuador,Curaçao,0,0,75,25,26,10,15,4,True,True
+2026-06-21,F,Tunisia,Japan,0,4,43,57,3,10,1,5,False,True
+2026-06-21,H,Spain,Saudi Arabia,4,0,65,35,21,3,9,1,True,False
+2026-06-21,G,Belgium,Iran,0,0,68,32,22,7,7,3,True,True
+2026-06-21,H,Uruguay,Cape Verde,2,2,66,34,16,11,2,4,False,False
+2026-06-21,G,New Zealand,Egypt,1,3,44,56,10,19,5,7,False,False
+2026-06-22,J,Argentina,Austria,2,0,54,46,12,6,3,1,True,False
+2026-06-22,I,France,Iraq,3,0,56,44,19,4,5,0,True,False
+2026-06-22,I,Norway,Senegal,3,2,43,57,12,17,6,6,False,False
+2026-06-22,J,Jordan,Algeria,1,2,25,75,8,17,4,8,False,False
+2026-06-23,K,Portugal,Uzbekistan,5,0,66,34,16,7,9,2,True,False
+2026-06-23,L,England,Ghana,0,0,78,22,19,2,4,1,True,True
+2026-06-23,L,Panama,Croatia,0,1,42,58,8,6,3,3,False,True
+2026-06-23,K,Colombia,DR Congo,1,0,66,34,20,7,9,2,True,False
+2026-06-24,B,Switzerland,Canada,2,1,55,45,6,13,4,7,False,False
+2026-06-24,B,Bosnia and Herzegovina,Qatar,3,1,55,45,15,9,5,3,False,False
+2026-06-24,C,Scotland,Brazil,0,3,46,54,11,21,5,8,False,True
+2026-06-24,C,Morocco,Haiti,4,2,69,31,19,7,12,2,False,False
+2026-06-24,A,Czech Republic,Mexico,0,3,51,49,12,11,1,5,False,True
+2026-06-24,A,South Africa,South Korea,1,0,31,69,14,7,4,2,True,False
+2026-06-25,E,Ecuador,Germany,2,1,39,61,8,11,3,3,False,False
+2026-06-25,E,Curaçao,Ivory Coast,0,2,38,62,10,8,3,3,False,True
+2026-06-25,F,Tunisia,Netherlands,1,3,29,71,10,19,4,6,False,False
+2026-06-25,F,Japan,Sweden,1,1,51,49,8,10,3,5,False,False
+2026-06-25,D,Turkey,United States,3,2,47,53,10,19,4,7,False,False
+2026-06-25,D,Paraguay,Australia,0,0,44,56,8,12,2,5,True,True
+2026-06-26,I,Norway,France,1,4,43,57,10,19,5,10,False,False
+2026-06-26,I,Senegal,Iraq,5,0,69,31,30,6,12,1,True,False
+2026-06-26,H,Uruguay,Spain,0,1,32,68,6,5,2,1,False,True
+2026-06-26,H,Cape Verde,Saudi Arabia,0,0,51,49,15,6,3,3,True,True
+2026-06-26,G,New Zealand,Belgium,1,5,45,55,6,33,2,10,False,False
+2026-06-26,G,Egypt,Iran,1,1,62,38,14,12,3,3,False False,
+2026-06-27,L,Panama,England,0,2,32,68,9,17,2,8,False,True
+2026-06-27,L,Croatia,Ghana,2,1,53,47,8,6,4,1,False,False
+2026-06-27,K,Colombia,Portugal,0,0,55,45,26,13,6,2,True,True
+2026-06-27,K,DR Congo,Uzbekistan,3,1,58,42,19,3,4,1,False,False
+2026-06-27,J,Jordan,Argentina,1,3,30,70,5,13,1,5,False,False
+2026-06-27,J,Algeria,Austria,3,3,60,40,11,11,5,4,False,False
